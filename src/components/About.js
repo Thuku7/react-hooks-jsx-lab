@@ -5,9 +5,8 @@ function About() {
   return (
     <div id="about">
       <h2>About Me</h2>
-      <p>JSX Lab Here</p>
-      <img src={image} alt="I made This"></img>
-
+      <p>JSX LAB HERE</p>
+      <img src={image} alt="I made this"></img>
     </div>
   )
 }
